@@ -1,0 +1,7 @@
+#menu a:hover, #menu .current {
+	background-image: none !important;
+}
+
+.feat_prods .prev {
+	left: -24px;
+}
